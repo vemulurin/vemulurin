@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vemulurin
-- 👀 I’m interested in Cloud and DevOps
+- 👀 I’m interested in Cloud
 - 🌱 I’m currently learning AWS and Azure
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me - Contact me via email naveen.vemuluri@outlook.com
